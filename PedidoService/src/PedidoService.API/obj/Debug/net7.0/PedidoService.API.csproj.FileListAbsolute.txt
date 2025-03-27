@@ -1,0 +1,7 @@
+C:\Users\user.PE0AK3T2\Downloads\PedidoService\PedidoService\src\PedidoService.API\obj\Debug\net7.0\PedidoService.API.csproj.AssemblyReference.cache
+C:\Users\user.PE0AK3T2\Downloads\PedidoService\PedidoService\src\PedidoService.API\obj\Debug\net7.0\PedidoService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.PE0AK3T2\Downloads\PedidoService\PedidoService\src\PedidoService.API\obj\Debug\net7.0\PedidoService.API.AssemblyInfoInputs.cache
+C:\Users\user.PE0AK3T2\Downloads\PedidoService\PedidoService\src\PedidoService.API\obj\Debug\net7.0\PedidoService.API.AssemblyInfo.cs
+C:\Users\user.PE0AK3T2\Downloads\PedidoService\PedidoService\src\PedidoService.API\obj\Debug\net7.0\PedidoService.API.csproj.CoreCompileInputs.cache
+C:\Users\user.PE0AK3T2\Downloads\PedidoService\PedidoService\src\PedidoService.API\obj\Debug\net7.0\PedidoService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user.PE0AK3T2\Downloads\PedidoService\PedidoService\src\PedidoService.API\obj\Debug\net7.0\PedidoService.API.MvcApplicationPartsAssemblyInfo.cache
